@@ -6,7 +6,7 @@ p1 - Stack implementation
 
 p2 - Matrix multiplication
 - reads in two matrices from input text file, multiplies and prints result
-- focus on manual allocation and addressing of arrays and 2d arrays
+- focus on explicit allocation and addressing of arrays and 2d arrays
 
 # Fortran95
 p3 - Travelling Salesman Problem
