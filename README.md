@@ -1,5 +1,5 @@
 # programmingLanguages
-Assortment of projects written in various languages
+Assortment of course projects written in various languages
 
 # C
 p1 - Stack implementation
